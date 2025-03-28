@@ -14,11 +14,9 @@ def bypass(inp):
     empty = []
     for i in letters:
         char = random.choice(chars)
-        print(char)
         empty.append(f"{i}{char*4}")
     string = ""
     for i in empty:
-        print(i)
         string = string + i
     return string
 
