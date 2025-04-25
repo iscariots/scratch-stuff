@@ -2,11 +2,7 @@ import pyperclip
 import random
 
 chars = [
-    "⁫",
-    "⁫",
-    "⁭",
-    "⁬",
-    "⁦",
+    "⁫ts is patched"
 ]
 
 def bypass(inp):
